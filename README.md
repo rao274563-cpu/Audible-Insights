@@ -54,7 +54,7 @@ Audible-Insights/
 │   └── processed/
 │       ├── audible_clean.csv
 │       ├── audible_advanced_clean.csv
-│       └── weighted_similarity.pkl
+│       
 │
 ├── notebooks/
 │   ├── 01_data_inspection.ipynb
