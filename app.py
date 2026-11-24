@@ -168,7 +168,7 @@ pages = [
 ]
 
 # Centered horizontal navigation
-left, center, right = st.columns([1.7, 5, 0.5])
+left, center, right = st.columns([1.8, 5, 0.4])
 
 with center:
     selected_page = st.radio(
